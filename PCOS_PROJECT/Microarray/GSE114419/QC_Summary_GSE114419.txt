@@ -1,0 +1,15 @@
+$dataset
+[1] "GSE114419"
+
+$total_samples
+[1] 6
+
+$potential_outliers
+[1] ""
+
+$top_variable_genes_used
+[1] 30
+
+$batch_correction_applied
+[1] FALSE
+
